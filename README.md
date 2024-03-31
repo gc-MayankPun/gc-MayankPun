@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **Backend Development**
 
-- 📫 How to reach me **punmayank35@gmail.com**
+- 📫 How to reach me **gcmayankpun@gmail.com**
 
 - ⚡ Fun fact **I like to play chess with my dog**
 
