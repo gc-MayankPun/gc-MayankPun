@@ -3,7 +3,7 @@
 <h3 align="center">I'm interested in web development, coding challenges, and exploring new technologies. 🌐💻</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif"></img>
 
-- 🌱 I'm currently learning **Backend Development**
+- 🌱 I'm currently learning **FrontEnd Development**
 
 - 📫 How to reach me **gcmayankpun@gmail.com**
 
